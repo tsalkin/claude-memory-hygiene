@@ -19,7 +19,7 @@ Claude Code даёт каждому проекту файловую «втору
 Это один скрипт на стандартной библиотеке Python — без зависимостей, без сборки.
 
 ```bash
-git clone https://github.com/maxi-mts/claude-memory-hygiene.git
+git clone https://github.com/tsalkin/claude-memory-hygiene.git
 cd claude-memory-hygiene
 python memory_hygiene.py report
 ```

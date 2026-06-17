@@ -21,7 +21,7 @@ Claude Code gives every project a file-based "second memory" at `~/.claude/proje
 It's one stdlib script — clone and run, no dependencies:
 
 ```bash
-git clone https://github.com/maxi-mts/claude-memory-hygiene.git
+git clone https://github.com/tsalkin/claude-memory-hygiene.git
 cd claude-memory-hygiene
 python memory_hygiene.py report
 ```
