@@ -6,6 +6,8 @@ A single-file, zero-dependency (Python stdlib only), MIT-licensed CLI. ~230 line
 
 > **Storage is not memory.** An always-loaded index is *working memory* and needs a budget like any cache. A memory that never forgets isn't a feature — it's a leak that eventually blinds the agent.
 
+> Sibling: **[claude-code-playbook](https://github.com/tsalkin/claude-code-playbook)** — operating conventions for the agent's *behavior* (this repo keeps its *memory* lean).
+
 ---
 
 ## The problem
